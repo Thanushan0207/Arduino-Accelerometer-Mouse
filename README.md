@@ -10,7 +10,7 @@ Items:
 - Any Accelerometer Gyroscope Sensor Module for Arduino
 
 Steps:
-1. First download all the files
+1. First download all the files.
 2. Then take the two zip folder named "I2Cdev" and "MPU6050" and extract them. (These are teh two libarries you need for this to funtion correctly you can either use the ones I provdied or anotehr one.)
 3. Locate your libary folder for your Arduino IDE and place the two extracted folders into them or you can follow this method as well https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE
 4. Complete the wiring I will include a picture of my wiring below.
